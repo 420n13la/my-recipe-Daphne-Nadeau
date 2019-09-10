@@ -13,13 +13,20 @@ h1 {
 }
 
 h2 {
-  color: darkblue;
+  color: darkred;
   font-family:'Majari', sans-serif;
-  text-align: center;
 }
 
-p {
-  text-align: center;
+ul{
+  font-family:'Manjari', calibri
+}
+
+ol{
+  font-family:'Manjari', calibri
+}
+
+p{
+  font-family:'Manjari', calibri
 }
 
 </style>
